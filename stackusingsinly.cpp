@@ -56,4 +56,9 @@ class Stack {
                 cout << endl;
             }// return the value of the top node
         }
-};
+        
+        // Is Empty operation: Check if the stack is empty
+        bool isEmpty() {
+            
+        }
+};        
